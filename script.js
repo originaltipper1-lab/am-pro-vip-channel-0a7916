@@ -1,5 +1,5 @@
 const TELEGRAM_URL = 'https://t.me/+5NgTLe-9gh42OGE1';
-const totalTime = 10;
+const totalTime = 3;
 const circumference = 2 * Math.PI * 40;
 const timerNumber = document.getElementById('countdownSec');
 const progressCircle = document.getElementById('progressCircle');
